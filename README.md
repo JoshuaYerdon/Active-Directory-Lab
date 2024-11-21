@@ -18,7 +18,7 @@ I began by setting up the server's IPV4 <br/> address & DNS server settings.
   <br/>
 Next I used the 'Add Roles and Features Wizard' to <br/> install Active Directory Domain Services.
   <br/>
-<img src="https://github.com/user-attachments/assets/b4c3f979-6273-4ada-b7dc-cddf590ece33" style="height: auto; width: 500px;"/>
+<img src="https://i.imgur.com/VQuADcS.png" style="height: auto; width: 500px;"/>
   <br/>
   <br/>
   <br/>
