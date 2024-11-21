@@ -1,6 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
-<h2>Description</h2>
+<h2>Description:</h2>
 In this home lab, I set up Active Directory using Oracle VirtualBox. A Windows Server VM was configured as the domain controller, and Active Directory Domain Services (AD DS) was installed. I created a Windows 10 client VM to join the domain, simulating real-world user management. This setup provided hands-on experience in managing a domain, including user and network management, in a virtualized environment.
 <br />
 
