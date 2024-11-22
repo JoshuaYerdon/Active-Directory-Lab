@@ -56,7 +56,7 @@ I installed the Remote Access role & configured Routing and Remote Access <br/> 
   <br/>
   <br/>
   <br/>
-Following this, I installed the DHCP role to automatically assign IP addresses to devices in the network, <br/> set the IP address scope and assigned the router IP. 
+Following this, I installed the DHCP role to automatically assign IP addresses to <br/> devices in the network, set the IP address scope and assigned the router IP. 
   <br/>
 <img src="https://i.imgur.com/OM1zfYD.png" style="height: auto; width: 313px;"/><img src="https://i.imgur.com/ijlPtin.png" style="height: auto; width: 278px;"/><img src="https://i.imgur.com/Q7IxND0.png" style="height: auto; width: 279px;"/>
   <br/>
